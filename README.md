@@ -5,6 +5,7 @@
 Under [**Episodes**](./Episodes/), you can find the content produced for each episode:
 
 * [EP 1 - "Routing at FARFETCH"](./Episodes/EP1-Routing/)
+* [EP 2 - "Rich Text in iOS"](./Episodes/EP2-RichText)
 
 ## License
 
